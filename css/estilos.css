@@ -1,0 +1,92 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#inicio{
+    background-color: rgb(9, 71, 69)!important;
+}
+.logo{
+    padding-left: 1em;
+}
+#terapias{
+    background-color: rgb(236, 238, 153);
+}
+.titulo{
+    font-weight: bold;
+    padding: 0.5em 0;
+}
+.principal{
+    font-style: italic;
+    font-size: 1.5em;
+    padding-bottom: 0.5em;
+}
+.parr{
+    padding-top: 0.5em;
+}
+.fig{padding-top: 3.5em;
+}
+#tarjetas{
+    padding: 1.5em 0;
+    background-color: rgb(9, 71, 69);
+}
+.card{
+    background-color: rgb(236, 238, 153);
+}
+h5{
+    font-size: 1.5em;
+    padding: 0.4em 0;
+}
+.boton{
+    font-size: 1.1em;
+}
+.boton:hover{
+    background-color: rgba(9, 71, 69, 0.253);
+}
+.banner2{
+    background-color: rgb(9, 71, 69);
+}
+.subt{
+    text-align: center;
+    font-style: italic;
+    font-size: 1.8em;
+    color: rgb(236, 238, 153);
+    padding: 0.5em 0;
+}
+#imagenes{
+    background-color: rgb(236, 238, 153);
+    padding-bottom: 0.5em;
+}
+.gal-img{
+    text-align: center;
+    font-weight: bold;
+    padding: 0.5em 0;
+    color: rgb(9, 71, 69);
+}
+#contacto{
+    background-color: rgb(9, 71, 69);
+    color: rgb(236, 238, 153);
+}
+.tituloseccion{
+    font-weight: bold;
+    font-size: 2.5em;
+}
+.btn-env{
+    background-color: rgb(236, 238, 153);
+    color: rgb(9, 71, 69);
+}
+.btn-env:hover{
+    background-color: rgba(236, 238, 153, 0.801);
+}
+.redes{
+    margin: 1em 0;
+    color: rgb(236, 238, 153);
+}
+footer{
+    background-color: rgb(9, 71, 69);
+    color: rgb(236, 238, 153);
+    font-size: 1.3em;
+    padding: 2em 0;
+}
+.mail{
+    color: rgb(236, 238, 153);
+    font-size: 1em;
+}
